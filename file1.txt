@@ -2,5 +2,6 @@ hey...welcome to GIT !!
 update-hello World!!
 WI3
 
-change 1 - to fix bug1....
+change 1 :- to fix bug1....
 change 2 - bshdn 
+change : to fix bug2
