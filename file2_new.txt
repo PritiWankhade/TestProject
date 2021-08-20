@@ -1,2 +1,4 @@
 check cmmit/add
 change added to test rebase for CR1
+
+changes done to test simple push without -u from local to master
