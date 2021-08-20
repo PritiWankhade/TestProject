@@ -4,3 +4,5 @@ change added to test rebase for CR1
 changes done to test simple push without -u from local to master
 
 change to test pull from rempte master to local master
+
+change to updaye done by user 2 wuth fetch
